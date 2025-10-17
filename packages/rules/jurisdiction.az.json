@@ -1,0 +1,12 @@
+[
+{
+"if": { "jurisdiction": "AZ" },
+"then": [ { "id": "clause:governing_law.az" } ],
+"note": "Azerbaijan — governing law clause"
+},
+{
+"if": { "jurisdiction": "AZ", "language": "[auto]" },
+"then": [ { "id": "clause:language.az" } ],
+"note": "AZ default language → Azerbaijani"
+}
+]
