@@ -129,8 +129,8 @@ The Controller ensures that personal data is processed lawfully, fairly, and tra
   "type": "MSA",
   "jurisdiction": "NL",
   "parties": {
-    "buyer": "Lukoil Mid-East Limited",
-    "supplier": "Eurodesign CJSC"
+    "buyer": "Company A",
+    "supplier": "Company B"
   },
   "procurementModel": "twoEnvelope",
   "services": ["IT Infrastructure", "Maintenance"]
@@ -209,5 +209,5 @@ For major changes, please open an issue first to discuss what you would like to 
 
 **Alexander Pavluchenko**  
 IT Infrastructure & Digitalization Projects  
-IT Service International
+IT Service International, Eurodesign CSC
 📧 [GitHub Profile](https://github.com/ap8888)
