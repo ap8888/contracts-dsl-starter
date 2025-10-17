@@ -1,0 +1,12 @@
+[
+{
+"if": { "jurisdiction": "UAE" },
+"then": [ { "id": "clause:governing_law.uae" } ],
+"note": "UAE — governing law (onshore/DIFC/ADGM selectable via params)"
+},
+{
+"if": { "jurisdiction": "UAE", "language": "[auto]" },
+"then": [ { "id": "clause:language.en" } ],
+"note": "UAE default language → English; Arabic optional by counterparty"
+}
+]
