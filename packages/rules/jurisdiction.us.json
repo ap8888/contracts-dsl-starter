@@ -1,0 +1,12 @@
+[
+{
+"if": { "jurisdiction": "US" },
+"then": [ { "id": "clause:governing_law.us", "params": { "state": "NY" } } ],
+"note": "United States — pick state via params (NY default)"
+},
+{
+"if": { "jurisdiction": "US", "language": "[auto]" },
+"then": [ { "id": "clause:language.en" } ],
+"note": "US default language → English"
+}
+]
