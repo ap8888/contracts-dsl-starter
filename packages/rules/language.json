@@ -1,0 +1,8 @@
+[
+{ "if": { "language": "en" }, "then": [ { "id": "clause:language.en" } ], "note": "Force English version" },
+{ "if": { "language": "ru" }, "then": [ { "id": "clause:language.ru" } ], "note": "Force Russian version" },
+{ "if": { "language": "az" }, "then": [ { "id": "clause:language.az" } ], "note": "Force Azerbaijani version" },
+{ "if": { "language": "ar" }, "then": [ { "id": "clause:language.ar" } ], "note": "Force Arabic version" },
+{ "if": { "language": "de" }, "then": [ { "id": "clause:language.de" } ], "note": "Force German version" },
+{ "if": { "language": "nl" }, "then": [ { "id": "clause:language.nl" } ], "note": "Force Dutch version" }
+]
