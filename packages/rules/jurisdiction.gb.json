@@ -1,0 +1,12 @@
+[
+{
+"if": { "jurisdiction": "GB" },
+"then": [ { "id": "clause:governing_law.gb" } ],
+"note": "United Kingdom — governing law (England & Wales)"
+},
+{
+"if": { "jurisdiction": "GB", "language": "[auto]" },
+"then": [ { "id": "clause:language.en" } ],
+"note": "GB default language → English"
+}
+]
