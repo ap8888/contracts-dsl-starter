@@ -1,0 +1,12 @@
+[
+{
+"if": { "jurisdiction": "NL" },
+"then": [ { "id": "clause:governing_law.nl" } ],
+"note": "Netherlands — governing law clause"
+},
+{
+"if": { "jurisdiction": "NL", "language": "[auto]" },
+"then": [ { "id": "clause:language.en" } ],
+"note": "NL default language → English (business practice)"
+}
+]
