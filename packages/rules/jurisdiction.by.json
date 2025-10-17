@@ -1,0 +1,12 @@
+[
+{
+"if": { "jurisdiction": "BY" },
+"then": [ { "id": "clause:governing_law.by" } ],
+"note": "Belarus — governing law clause"
+},
+{
+"if": { "jurisdiction": "BY", "language": "[auto]" },
+"then": [ { "id": "clause:language.ru" } ],
+"note": "BY default language → Russian"
+}
+]
